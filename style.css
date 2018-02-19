@@ -122,13 +122,13 @@ height: 100%;
 .slide2 {
   background: url(banner2.jpg)no-repeat center;
   background-size: cover;
-  animation:fade 12s infinite;
+  animation:fade2 12s infinite;
   -webkit-animation:fade2 12s infinite;
 }
 .slide3 {
   background: url(banner3.jpg)no-repeat center;
   background-size: cover;
-  animation:fade 12s infinite;
+  animation:fade3 12s infinite;
   -webkit-animation:fade3 12s infinite;
 }
 @keyframes fade
